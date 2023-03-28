@@ -1,0 +1,12 @@
+#texto{
+    text-align: justify;
+    margin-left:2%;
+    width:72%;
+    font-family: 'Roboto', sans-serif;
+}
+@media(max-width: 861px){
+    #texto{
+        width: 92%;
+        margin-left:4%;
+    }
+}

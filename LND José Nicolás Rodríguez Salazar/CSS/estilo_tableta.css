@@ -1,0 +1,18 @@
+@media(max-width: 750px){
+    #epecial{
+      display: block;
+    }
+    .menu{
+      width: 40px;
+      height: 40px;
+    }
+    .primero{
+      display:none;
+    }
+    .letras{
+      display: none;
+    }
+    .encabezado{
+      height:300px;
+  }
+  }

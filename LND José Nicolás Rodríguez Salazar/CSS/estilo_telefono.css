@@ -1,0 +1,25 @@
+@media(max-width: 575px){
+    #carouselExampleRide{
+      display: none;
+    }
+    .letras{
+      display: inline-flex;
+    }
+    .segundo{
+      display: none;
+    }
+    .nav-item{
+      border: 2px solid gray;
+      border-radius: 10px;
+      margin-bottom: 2px;
+    }
+    .nav-item:hover{
+      background-color: grey;
+    }
+    .navbar-toggler:hover{
+      background-color: grey;
+    }
+    #catalogo{
+      display:block;
+    }
+  }

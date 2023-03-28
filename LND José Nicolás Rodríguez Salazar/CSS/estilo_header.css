@@ -1,0 +1,13 @@
+ /* body{
+        background-image:url("bg_page.png");
+      }*/
+      .nav-link{
+        font-size: 25px;
+        font-weight: bold;
+      }
+      .nav-link:hover{
+          color: white;
+      }
+      .encabezado{
+          height:400px;
+      }

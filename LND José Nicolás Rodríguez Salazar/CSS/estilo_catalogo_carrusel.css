@@ -1,0 +1,24 @@
+.cartel{
+    height:300px;
+    width:200px;
+    object-fit:cover;
+  }
+  .carousel-caption{
+    padding: 0px;
+  }
+  .tamaño{
+    font-size: 15px;
+  }
+  #carouselExampleCaptions{
+    box-shadow:3px 4px 3px 4px darkgray;
+    padding-left: 0px;
+    margin-top:5%;
+  }
+  #carrusel{
+    margin-left:3%;
+    margin-right:3%;
+    padding-bottom: 3%;
+  }
+  #catalogo{
+    display:none;
+  }
